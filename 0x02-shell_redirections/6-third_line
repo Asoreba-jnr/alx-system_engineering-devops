@@ -1,2 +1,2 @@
 #!/bin/bash
-cat iacta | head -c13
+head -c13 iacta
